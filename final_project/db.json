@@ -1,0 +1,214 @@
+{
+  "photos": [
+    {
+      "id": 1,
+      "title": "Mountain View At Zhangjiajie",
+      "url": "/image/1.jpg",
+      "albumId": 1,
+      "categoryId": 1,
+      "yearId": 1
+    },
+    {
+      "id": 2,
+      "title": "Olympic National Park",
+      "url": "/image/2.jpg",
+      "albumId": 4,
+      "categoryId": 1,
+      "yearId": 2
+    },
+    {
+      "id": 3,
+      "title": "A Lady at Milwaukee Art Museum",
+      "url": "/image/3.jpg",
+      "albumId": 2,
+      "categoryId": 2,
+      "yearId": 1
+    },
+    {
+      "id": 4,
+      "title": "Sunset",
+      "url": "/image/4.jpg",
+      "albumId": 3,
+      "categoryId": 1,
+      "yearId": 2
+    },
+    {
+      "id": 5,
+      "title": "A Family of Monkeys",
+      "url": "/image/5.jpg",
+      "albumId": 1,
+      "categoryId": 1,
+      "yearId": 1
+    },
+    {
+      "id": 6,
+      "title": "Milwaukee Art Museum",
+      "url": "/image/6.jpg",
+      "albumId": 2,
+      "categoryId": 2,
+      "yearId": 2
+    }
+  ],
+  "albums": [
+    {
+      "id": 1,
+      "name": "Zhangjiajie"
+    },
+    {
+      "id": 2,
+      "name": "Milwaukee"
+    },
+    {
+      "id": 3,
+      "name": "California"
+    },
+    {
+      "id": 4,
+      "name": "Seattle"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Nature"
+    },
+    {
+      "id": 2,
+      "name": "Urban"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Peter"
+    },
+    {
+      "id": 2,
+      "name": "Bob"
+    },
+    {
+      "id": 3,
+      "name": "Jessie"
+    },
+    {
+      "id": 4,
+      "name": "Dana"
+    },
+    {
+      "id": 5,
+      "name": "Andrea"
+    },
+    {
+      "id": 6,
+      "name": "Frank"
+    },
+    {
+      "id": 7,
+      "name": "Nikki"
+    },
+    {
+      "id": 1733009411091,
+      "name": "user1"
+    },
+    {
+      "id": 1733009487888,
+      "name": "user2"
+    },
+    {
+      "id": 1733009813323,
+      "name": "user3"
+    },
+    {
+      "id": 1733009985396,
+      "name": "wewew"
+    },
+    {
+      "id": 1733010043708,
+      "name": "user4"
+    },
+    {
+      "id": 1733010047818,
+      "name": "23232"
+    },
+    {
+      "id": 1733034066435,
+      "name": "ttttttt"
+    },
+    {
+      "id": 1733034231007,
+      "name": "1212"
+    },
+    {
+      "id": 1733036834617,
+      "name": "jj"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "photoId": 1,
+      "userId": 1,
+      "text": "Beautiful shot!",
+      "timestamp": "2024-12-01T06:20:54.426Z"
+    },
+    {
+      "id": 2,
+      "photoId": 2,
+      "userId": 2,
+      "text": "I wish I could visit this place.",
+      "timestamp": "2024-11-22T12:30:00Z"
+    },
+    {
+      "id": 3,
+      "photoId": 2,
+      "userId": 3,
+      "text": "Love this!",
+      "timestamp": "2024-11-23T14:15:00Z"
+    },
+    {
+      "id": 4,
+      "photoId": 3,
+      "userId": 4,
+      "text": "Nice place",
+      "timestamp": "2024-11-23T16:00:00Z"
+    },
+    {
+      "id": 5,
+      "photoId": 4,
+      "userId": 5,
+      "text": "The lights are so vibrant!",
+      "timestamp": "2024-11-23T18:00:00Z"
+    },
+    {
+      "id": 6,
+      "photoId": 5,
+      "userId": 6,
+      "text": "Nice!",
+      "timestamp": "2024-11-24T09:00:00Z"
+    },
+    {
+      "id": 7,
+      "photoId": 6,
+      "userId": 7,
+      "text": "I love this photo!",
+      "timestamp": "2024-11-24T10:30:00Z"
+    },
+    {
+      "id": 1733034169372,
+      "photoId": 1,
+      "userId": 1733009411091,
+      "text": "rdfsfs",
+      "timestamp": "2024-12-01T06:22:49.372Z"
+    }
+  ],
+  "years": [
+    {
+      "id": 1,
+      "year": 2022
+    },
+    {
+      "id": 2,
+      "year": 2020
+    }
+  ]
+}

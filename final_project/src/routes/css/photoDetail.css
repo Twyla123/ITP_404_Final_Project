@@ -1,0 +1,81 @@
+.photo-detail-container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 40px;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.photo-large {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 16px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.photo-details p {
+  font-size: 16px;
+  line-height: 1.5;
+  margin: 8px 0;
+  color: #333;
+}
+
+.photo-details strong {
+  color: #007bff;
+}
+
+.comments-list {
+  list-style: none;
+  padding: 0;
+  margin: 16px 0px;
+}
+
+.comments-list li {
+  margin-top: 10px;
+  margin-bottom: 22px;
+  padding: 10px;
+  border: 3px solid #ddd;
+  border-radius: 9px;
+  background-color: #fff;
+}
+
+.comments-list li strong {
+  color: #3a91ee;
+  font-size: 1.4em;
+}
+
+.comments-list .timestamp {
+  font-size: 12px;
+  color: #666;
+  display: block;
+  margin-top: 4px;
+}
+
+.comments-list ul {
+  margin-left: 20px;
+  padding-left: 0px;
+}
+
+form {
+  margin-top: 24px;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 16px;
+}
+
+textarea,
+input {
+  width: 100%;
+  padding: 10px;
+  margin-top: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 14px;
+}
+
+.photo-detail-container .btn {
+  margin: 20px 8px;
+}

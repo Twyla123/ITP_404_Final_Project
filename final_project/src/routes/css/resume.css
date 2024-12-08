@@ -1,0 +1,99 @@
+.resume {
+  width: 90%;
+  margin: 20px auto;
+  padding: 40px;
+  background-color: #f7f9fc;
+  border: 2px solid #ccc;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.resume-header {
+  text-align: center;
+  margin-bottom: 50px;
+  padding: 15px;
+  background-color: #d4e4f2;
+  border: 2px solid #ccc;
+  border-radius: 8px;
+}
+
+.resume-header h1 {
+  font-size: 1.8rem;
+  color: #164863;
+  margin-bottom: 5px;
+}
+
+.resume-header p {
+  font-size: 1rem;
+  color: #555;
+}
+
+.education-container {
+  margin: 20px 0px;
+  padding: 25px;
+  background-color: #e4eef7;
+  border: 2px solid #ccc;
+  border-radius: 8px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 15px;
+}
+
+.institution {
+  width: 70%;
+}
+
+.mascot-container {
+  width: 25%;
+  text-align: center;
+}
+
+.mascot {
+  width: 100%;
+  max-width: 150px;
+  height: auto;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.institution h3 {
+  font-size: 1.2rem;
+  color: #164863;
+  margin-bottom: 5px;
+}
+
+.institution p {
+  font-size: 1rem;
+  color: #333;
+  line-height: 1.5;
+}
+
+.section {
+  margin: 20px 0;
+  padding: 20px;
+  background-color: #e4eef7;
+  border: 2px solid #ccc;
+  border-radius: 8px;
+}
+
+.section h2 {
+  background-color: #164863;
+  color: white;
+  padding: 10px;
+  font-size: 1.4rem;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+.section ul {
+  padding-left: 20px;
+  margin-top: 10px;
+}
+
+.section ul li {
+  font-size: 1rem;
+  color: #333;
+  margin-bottom: 8px;
+}

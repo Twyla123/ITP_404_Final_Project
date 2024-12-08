@@ -1,0 +1,40 @@
+body {
+  font-family: "Parkinsans", sans-serif;
+  background-color: #dfeef2;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Parkinsans", sans-serif;
+  font-weight: 700;
+  color: #333;
+}
+
+h1 {
+  color: #042435;
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+p {
+  font-family: "Parkinsans", sans-serif;
+  color: #444;
+  line-height: 1.6;
+}
+
+header {
+  background-color: #4285b8;
+  padding: 10px;
+  box-shadow: 0 4px 6px rgba(51, 42, 42, 0.1);
+  font-size: large;
+}
+
+.container {
+  background-color: #a9cae2;
+  padding: 20px;
+  border-radius: 9px;
+}
